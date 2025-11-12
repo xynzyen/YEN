@@ -1,6 +1,4 @@
 # Hi, I'm Yen ✨ 
 Ailurophile buddy:
 
-<p align="center">
-  <img src="./cat.png" width="200" alt="animated cat" />
-</p>
+<img src="./assets/cat.gif" width="200" alt="cat waving" />
